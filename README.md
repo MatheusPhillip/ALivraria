@@ -1,4 +1,4 @@
-# ALivraria
+# A Livraria
 Uma aplicação de cadastro de livros para uma biblioteca feita com a linguagem Java.
 
 # The bookstore
